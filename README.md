@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rethabile Mmako
 
-<!--
-**thabi1405/thabi1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year BSc Mathematical Sciences student majoring in Computer Science and Statistics.
 
-Here are some ideas to get you started:
+## Interested in
+-Data Analytics
+-Data Science
+-Quantitative Analysis
+-Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+-HTML
+-CSS
+-C++
+-SQL
+-Statistics
+-Java
+
+# Currently learning
+-Python
+-Machine Learning
+-Data Visualization
+-Cloud Computing
+
+# Connect with me
+Linkedin: https://www.linkedin.com/in/rethabile-mmako-171176346?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Email: thabi140@outlook.com
